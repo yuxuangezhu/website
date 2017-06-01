@@ -1,6 +1,6 @@
 ---
 layout: default
-lead: WebAssembly / <i>wasm</i> 提供一种便携的，体积小加载速度快的格式，它适合编译后在Web中运行。
+lead: WebAssembly/<i>wasm</i> 是一种适用于Web的新型编译格式，它轻便、尺寸小， 加载更快。
 ---
 
 <div class="flash flash-warn">
